@@ -1,6 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:push_notification/firebase_options.dart';
+import 'package:flutter_push_notif/firebase_options.dart';
 import 'api/firebase_api.dart';
 import 'pages/home_page.dart';
 import 'pages/notification_page.dart';
